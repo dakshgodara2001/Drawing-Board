@@ -3,7 +3,7 @@
 A simple paint application built with HTML, CSS, and JavaScript.
 
 <p align="center">
- <img src="https://github.com/dakshgodara2001/Find-My-Phone/blob/main/images/Screenshot_20230204_111648.png" width="260" style="margin: 0 20px;">\
+ <img src="https://github.com/dakshgodara2001/Drawing-Board/blob/main/drawingboard.png">\
 </p>
 
 ## Features
