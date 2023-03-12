@@ -3,7 +3,7 @@
 A simple paint application built with HTML, CSS, and JavaScript.
 
 <p align="center">
- <img src="https://github.com/dakshgodara2001/Drawing-Board/blob/main/drawingboard.png">\
+ <img src="https://github.com/dakshgodara2001/Drawing-Board/blob/main/drawingboard.png">
 </p>
 
 ## Features
